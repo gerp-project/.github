@@ -1,4 +1,4 @@
-# Goal
+# 💞 Goal
 We are on a mission to reduce tedious, manual maintenance Pull Requests for Open-Source GitHub repositories.
 
 In maintaining the Azure Kubernetes Service Github Actions, we found ourselves making edits across over a dozen repos that each held an action.
