@@ -1,5 +1,3 @@
-# GERP
-
 # Goal
 We are on a mission to reduce tedious, manual maintenance Pull Requests for Open-Source GitHub repositories.
 
