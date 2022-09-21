@@ -7,7 +7,7 @@ While local scripting could work around this, we wanted a way to keep the templa
 
 For the Microsoft 2022 Hackathon we decided to create GERP to solve this problem.
 
-GERP uses a single template repo to synchronize repository templates via batch Pull Requests
+gerp uses a single template repo to synchronize repository templates via batch Pull Requests
 
 # How-to 🧠 
-You can get started over at the [GERP repo](https://github.com/gerp-project/gerp)
+You can get started over at the [gerp repo](https://github.com/gerp-project/gerp)
