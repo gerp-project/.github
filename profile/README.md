@@ -10,7 +10,7 @@ While hacky local scripting could work around this, we wanted a clean way to kee
 
 For the Microsoft 2022 Hackathon we decided to create GERP to solve this problem.
 
-gerp uses a single template repo to synchronize repository templates via batch Pull Requests.
+GERP uses a single template repo to synchronize repository templates via batch Pull Requests.
 
 ## Getting started :rocket:
 
